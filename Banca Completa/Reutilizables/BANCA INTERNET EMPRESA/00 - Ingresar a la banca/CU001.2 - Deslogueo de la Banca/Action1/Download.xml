@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Owners>
+  <OwnerId>1775</OwnerId>
+  <OwnerType>USER_ASSETS</OwnerType>
+  <Name><![CDATA[Action1]]></Name>
+  <FSPath><![CDATA[Test\CU001.2 - Deslogueo de la Banca_625\625\625]]></FSPath>
+  <QCPath><![CDATA[Subject\2.0 BANCA INTERNET EMPRESA\Automático\00 - Ingresar a la banca\CU001.2 - Deslogueo de la Banca]]></QCPath>
+  <Owner>
+    <OwnerId>1775</OwnerId>
+    <OwnerType>USER_ASSETS</OwnerType>
+    <Name><![CDATA[Action1]]></Name>
+    <FSPath><![CDATA[Test\CU001.2 - Deslogueo de la Banca_625\625\625]]></FSPath>
+    <QCPath><![CDATA[Subject\2.0 BANCA INTERNET EMPRESA\Automático\00 - Ingresar a la banca\CU001.2 - Deslogueo de la Banca]]></QCPath>
+    <Relation>
+      <RelatedId>1772</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[TEST_Data]]></Name>
+      <FSPath><![CDATA[Test\CU001.2 - Deslogueo de la Banca_625\625\625]]></FSPath>
+      <QCPath><![CDATA[Subject\2.0 BANCA INTERNET EMPRESA\Automático\00 - Ingresar a la banca\CU001.2 - Deslogueo de la Banca]]></QCPath>
+      <Condition>NONE</Condition>
+      <Order>150</Order>
+    </Relation>
+  </Owner>
+</Owners>
