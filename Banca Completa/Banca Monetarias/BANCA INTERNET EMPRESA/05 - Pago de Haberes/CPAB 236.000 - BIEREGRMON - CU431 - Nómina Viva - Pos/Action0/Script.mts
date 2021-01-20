@@ -1,0 +1,5 @@
+﻿Call RunAction("LogIn", oneIteration, Parameter("explorador"), Parameter("version"))
+Call RunAction("CU431 - Nómina Viva", oneIteration, Parameter("explorador"), Parameter("version"))
+RunAction "Flujo alternativo - Importar 15 beneficiarios", oneIteration, Parameter("explorador"), Parameter("version")
+Call RunAction("Flujo Alternativo - Carga de datos para Confirmar, Firmar y Activar", oneIteration, Parameter("explorador"), Parameter("version"))
+Call RunAction("LogOut", oneIteration)
